@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="DSCDP_CRUJN6_00.nds" source="original">
+    <mtime>1605660497</mtime>
+    <size>268435456</size>
+    <md5>c421495142caa1c4bec8ba115a05d415</md5>
+    <crc32>088cea8f</crc32>
+    <sha1>136aacc9d3d7c8567381cd4e735ff3c004a018d0</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="DSCDP_CRUJN6_00.sav" source="original">
+    <mtime>1605660512</mtime>
+    <size>524288</size>
+    <md5>4f9d6821f656d9f1b31bcca3ab7c6151</md5>
+    <crc32>a6ad0fa1</crc32>
+    <sha1>52eb13e817ea76cbaa9761984e4b62b2723e7146</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1617662698</mtime>
+    <size>9109</size>
+    <md5>167f8898fc5048d9f8817f93ed624442</md5>
+    <crc32>5126701c</crc32>
+    <sha1>8753848412a505f78ec12a524f4467bcd0a43298</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="jedecid_and_sreg.bin" source="original">
+    <mtime>1605660361</mtime>
+    <size>4</size>
+    <md5>9b9549a087532bf511548e19486d0d77</md5>
+    <crc32>9003bc70</crc32>
+    <sha1>0cf74f576acc7d0ccb5b4a78eb6c46b52413324c</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="m006_drkdis_dn.NCGR" source="original">
+    <mtime>1605660412</mtime>
+    <size>49216</size>
+    <md5>9fa39106b636fbb3ca400f57b3498c88</md5>
+    <crc32>6cddd230</crc32>
+    <sha1>9d09839e4afcd7aa04ffe25be34a2f07e7803687</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="mcdonalds-japan-ecdp-rom-training-nintendo-ds-cartridge-dump_archive.torrent" source="metadata">
+    <btih>919c37c4d1465638087d24f6f319d110c510c11c</btih>
+    <mtime>1605660604</mtime>
+    <size>13025</size>
+    <md5>4f87df6a80894ae2de30cff16e599a4d</md5>
+    <crc32>cda628b4</crc32>
+    <sha1>1d0f74fc52a651fb8b2269e7366ac958019f2035</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="mcdonalds-japan-ecdp-rom-training-nintendo-ds-cartridge-dump_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>8d778a4d2503ffb5ac01730cf1efa72b</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="mcdonalds-japan-ecdp-rom-training-nintendo-ds-cartridge-dump_meta.sqlite" source="original">
+    <mtime>1605662474</mtime>
+    <size>27648</size>
+    <md5>2ec921c7ea52f391a232a3703270aa42</md5>
+    <crc32>390a4601</crc32>
+    <sha1>c11d7f807f7d56a8b1862dc0139448a19e1ea724</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="mcdonalds-japan-ecdp-rom-training-nintendo-ds-cartridge-dump_meta.xml" source="original">
+    <mtime>1682216553</mtime>
+    <size>1620</size>
+    <md5>cb885a15a73eaff55ed775411a1f70cd</md5>
+    <crc32>e54d6ff3</crc32>
+    <sha1>a972287d6e2b466c9e27ec006767a8e946e25bda</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="mcdonalds-japan-ecdp-rom-training-nintendo-ds-cartridge-dump_reviews.xml" source="original">
+    <mtime>1685451695</mtime>
+    <size>136874</size>
+    <md5>7471cf7781038dc863150ce46594e44b</md5>
+    <crc32>51ad7a72</crc32>
+    <sha1>345e97329d486a69bad7f50d284729a91191be78</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="readme (password + instructions).txt" source="original">
+    <mtime>1605660516</mtime>
+    <size>9383</size>
+    <md5>71d986542760eb13071fe25a69bff5a0</md5>
+    <crc32>7083c3e0</crc32>
+    <sha1>1e95a7e377817cda3a50665adf3fb83d1bbc38f3</sha1>
+    <format>Text</format>
+  </file>
+  <file name="ronald mcdonald's hand'.png" source="original">
+    <mtime>1605661592</mtime>
+    <size>2344707</size>
+    <md5>f8e20774e144244a4b95e527d92ed43d</md5>
+    <crc32>78844095</crc32>
+    <sha1>2327e732fd773a9339a4f2a7771ba569ef454d82</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="ronald mcdonald's hand'_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>ronald mcdonald's hand'.png</original>
+    <mtime>1605662991</mtime>
+    <size>3748</size>
+    <md5>245526b1ccca1d54609c6a347505e9c6</md5>
+    <crc32>8e20da13</crc32>
+    <sha1>153c8c1d08a04c2d6bc2d929e77ae1ca9f0658ae</sha1>
+  </file>
+</files>
