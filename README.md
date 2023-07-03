@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>eCrew Development Program Patched English Translation</h1>
+  <h1>eCrew Development Program (eCDP) English Translation</h1>
   <p>This is a repository that patched the english translation of McDonald's <a href="https://en.wikipedia.org/wiki/ECrew_Development_Program">eCrew Development Program</a> for you !</p>
 </div>
 
